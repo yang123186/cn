@@ -1,0 +1,5 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://yang123186.github.com/cn
+pygments: true
+
