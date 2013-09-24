@@ -13,7 +13,7 @@ layout: page
 
 
 <!-- Duoshuo Comment BEGIN -->
-	<div class="ds-thread"></div>
+<div class="ds-thread"></div>
 <script type="text/javascript">
 var duoshuoQuery = {short_name:"yang123186"};
 	(function() {
@@ -24,5 +24,5 @@ var duoshuoQuery = {short_name:"yang123186"};
 		(document.getElementsByTagName('head')[0] 
 		|| document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
-	</script>
+</script>
 <!-- Duoshuo Comment END -->
