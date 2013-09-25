@@ -96,7 +96,7 @@ border-color: #999999 #999999 #999999 #999999; font-size: 9pt
   <area shape="rect" coords="429,97,550,127" href="{{ site.url }}/pages/cultural.html">
   <area shape="rect" coords="281,97,402,127" href="{{ site.url }}/pages/product.html">
   <area shape="rect" coords="135,97,256,127" href="{{ site.url }}/pages/about.html">
-  <area shape="rect" coords="2,97,123,127"   href="{{ site.url }}/index.html">
+  <area shape="rect" coords="2,97,123,127"   href="{{site.url}}/index.html">
 </map>
 	 </td>
 
