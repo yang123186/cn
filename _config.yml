@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: kramdown
 url: http://cn.marketon.cn
-pygments: true
+highlighter: true
 
